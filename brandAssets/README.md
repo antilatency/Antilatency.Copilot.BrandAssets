@@ -18,6 +18,8 @@ png | svg | image
 --- | --- | ---
 [CopilotIconRound.png](CopilotIconRound.png) | [CopilotIconRound.svg](CopilotLogoHorizontalLight.svg) | <img src="CopilotIconRound.png" width="128px"/>
 [CopilotIconLight.png](CopilotIconLight.png) | [CopilotIconLight.svg](CopilotIconLight.svg) | <img src="CopilotIconLight.png" width="128px"/>
+[CopilotIconLight.png](CopilotIconSquare.png) | [CopilotIconSquare.svg](CopilotIconSquare.svg) | <img src="CopilotIconSquare.png" width="128px"/>
+
 
 ## Colors
 
