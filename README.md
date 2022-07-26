@@ -1,5 +1,4 @@
-# Antilatency.Copilot
-# brandAssets
+# Antilatency.Copilot.BrandAssets
 ## Logo
 
 ### Horizontal logo
